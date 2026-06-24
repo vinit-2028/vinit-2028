@@ -44,7 +44,7 @@ https://look-salon-psi.vercel.app
 A professional social media agency website showcasing services and client offerings.
 
 🔗 Live Demo:
-PASTE-YOUR-TEAM-S-MEDIA-LINK
+https://team-s-media.vercel.app
 
 ### Portfolio Website
 My personal portfolio displaying projects, skills, and contact information.
