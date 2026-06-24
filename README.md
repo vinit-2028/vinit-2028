@@ -58,6 +58,9 @@ My personal portfolio displaying projects, skills, and contact information.
 Portfolio:
 https://viniai.vercel.app
 
+LinkedIn:
+www.linkedin.com/in/vinit-jagtap
+
 Email:
 [vinitjag28@gmail.com](mailto:vinitjag28@gmail.com)
 
