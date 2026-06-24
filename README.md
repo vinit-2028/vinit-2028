@@ -35,16 +35,22 @@ Currently learning React and improving my frontend development skills while work
 ## Featured Projects
 
 ### Look Salon
-
 A modern salon website designed to help local customers book appointments through WhatsApp.
 
-### Team S Media
+🔗 Live Demo:
+https://look-salon-psi.vercel.app
 
+### Team S Media
 A professional social media agency website showcasing services and client offerings.
 
-### Portfolio Website
+🔗 Live Demo:
+PASTE-YOUR-TEAM-S-MEDIA-LINK
 
+### Portfolio Website
 My personal portfolio displaying projects, skills, and contact information.
+
+🔗 Live Demo:
+https://viniai.vercel.app
 
 ## Goals for 2026
 
